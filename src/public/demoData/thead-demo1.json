@@ -1,0 +1,30 @@
+[
+    {
+        "key"        : "name",
+        "title"      : "name",
+        "sort"       : true
+    },
+    {
+        "key"        : "gender",
+        "title"      : "gender"
+    },
+    {
+        "key"        : "age",
+        "title"      : "age",
+        "sort"       : true
+    },
+    {
+        "key"        : "email",
+        "title"      : "email",
+        "sort"       : true
+    },
+    {
+        "key"        : "phone",
+        "title"      : "phone",
+        "sort"       : true
+    },
+    {
+        "key"        : "tel",
+        "title"      : "tel"
+    }
+]

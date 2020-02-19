@@ -1,0 +1,38 @@
+[
+    {
+        "value" : "background",
+        "name"  : "background"
+    },
+    {
+        "value" : "backgroundColor",
+        "name"  : "background-color"
+    },
+    {
+        "value" : "backgroundImage",
+        "name"  : "background-image"
+    },
+    {
+        "value" : "backgroundRepeat",
+        "name"  : "background-repeat"
+    },
+    {
+        "value" : "backgroundAttachment",
+        "name"  : "background-attachment"
+    },
+    {
+        "value" : "backgroundPosition",
+        "name"  : "background-position"
+    },
+    {
+        "value" : "background",
+        "name"  : "background"
+    },
+    {
+        "value" : "fontSize",
+        "name"  : "font-size"
+    },
+    {
+        "value" : "color",
+        "name"  : "color"
+    }
+]
