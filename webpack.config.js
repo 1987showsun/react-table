@@ -30,7 +30,7 @@ module.exports = {
   entry           : ["./index.js"],
   output          : {
     library         : "BrowserRouter",
-    path            : `${__dirname}/dist/`,
+    path            : `${__dirname}/docs/`,
     filename        : `./index.js`
   },
   module: {
