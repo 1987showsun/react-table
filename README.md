@@ -1,7 +1,7 @@
 React Best Table
 
 ```js
-    npm i react-best-table
+npm i react-best-table
 ```
 
 ```js
