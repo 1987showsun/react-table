@@ -1,5 +1,13 @@
 React Best Table
 
+```js
+    npm i react-best-table
+```
+
+```js
+<link rel="stylesheet" type="text/css" href="https://npm-package.s3-ap-northeast-1.amazonaws.com/react-table/main.css" />
+```
+
 Hooks for building lightweight, fast and extendable datagrids for React
 Create new and better form components to make it easier for users to get started.
 
