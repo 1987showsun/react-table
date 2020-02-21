@@ -1,12 +1,15 @@
 React Best Table
 
-```js
+```bash
 npm i react-best-table
 ```
 
-```js
+```bash
 <link rel="stylesheet" type="text/css" href="https://npm-package.s3-ap-northeast-1.amazonaws.com/react-table/main.css" />
 ```
+
+# Demo
+https://1987showsun.github.io/react-table/
 
 Hooks for building lightweight, fast and extendable datagrids for React
 Create new and better form components to make it easier for users to get started.
