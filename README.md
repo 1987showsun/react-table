@@ -2,6 +2,7 @@ React Best Table
 
 ```bash
 npm i react-best-table
+import Table from 'react-best-table'
 ```
 
 ```bash
