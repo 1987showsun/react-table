@@ -16,7 +16,7 @@ export default ({ setup={}, handlePagination }) => {
 
     useEffect(()=>{
         setSetup({...setup});
-    },[setup]);
+    },[setup['total']]);
 
     useEffect(()=>{
         const { total=0, limit=0, range=2, current=1 } = setup;
@@ -142,7 +142,7 @@ export default ({ setup={}, handlePagination }) => {
         return returnDom;
     }
 
-    const displayTextToLowerCase = stateSetup['display'].map( item => item.toLowerCase());
+    const displayTextToLowerCase = (stateSetup['display'] || []).map( item => item.toLowerCase());
 
     return(
         <div className="pagination-wrap">

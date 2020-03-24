@@ -15,6 +15,29 @@ https://1987showsun.github.io/react-table/
 Hooks for building lightweight, fast and extendable datagrids for React
 Create new and better form components to make it easier for users to get started.
 
+# Use
+```js
+import Table from 'react-best-table';
+<Table
+    { ...setting }
+    handleSort       ={(val) => {}}
+    handlePagination ={(val) => {}}
+>
+    {
+        data.map( item =>  {
+            const { id, .... } = item;
+            <React.Fragment key={id}>
+                <div>....</div>
+                <div>....</div>
+                <div>....</div>
+                <div>....</div>
+                <div>....</div>
+            </React.Fragment>
+        })
+    }
+</Table>
+```
+
 # Features
 > Lightweight
 > Auto out of the box, fully controllable API
