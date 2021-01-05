@@ -58,7 +58,7 @@
     "webpack-manifest-plugin": "^2.2.0"
   },
   "devDependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "query-string": "^6.11.0",
     "react-router-dom": "^5.1.2",
     "@babel/core": "^7.8.4",
